@@ -1,0 +1,3 @@
+[submodule "xiaonuogantan/static/webapp"]
+	path = xiaonuogantan/static/webapp
+	url = git@github.com:XiaonuoGantan/xiaonuogantan_webapp.git
