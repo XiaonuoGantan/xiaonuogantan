@@ -11,3 +11,4 @@ lib64
 *.sqlite3
 *.pyc
 *.sw[op]
+*node_modules/
